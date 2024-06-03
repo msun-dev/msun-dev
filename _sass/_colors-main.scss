@@ -3,18 +3,13 @@
     --accent-color:#808080;
 }
 
-.default-theme {
-    color:#000000 ;
-    background-color:#ffffff ;
-}
-
-.night-theme {
+body {
     color:#ffffff ;
     background-color:#000000 ;
     background-image: url("/assets/images/stars.gif");
     background-size: 500px 500px;
 }
 
-.night-theme div{
-    background-color: black;
+body div{
+    // background-color: black;
 }

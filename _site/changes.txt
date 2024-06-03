@@ -1,0 +1,5 @@
+Commit #25:
+	Changes: 
+		- google tracking removed (why the heck I added it in the first place?)
+		- night theme removed + optimizations to background
+		- removed unfinished articles

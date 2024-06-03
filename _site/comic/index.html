@@ -21,10 +21,8 @@
             <li class="nav"><a href="/" >Home</a></li>
             <li class="nav"><a href="/blog" >Blog</a></li>
             <li class="nav"><a href="/comic"  class="active-page" >Comic</a></li>
-            <li class="nav"><a href="/projects" >Projects</a>
-            </li>
+            <li class="nav"><a href="/projects" >Projects</a></li>
             <li class="nav"><a href="/links" >Links</a></li>
-            <li class="nav"><button onclick="toggleNight()">Toggle night</button></li>
         </nav>
 
         <hr>
@@ -50,17 +48,5 @@
         </footer>
     </div>
 </body>
-
-<script>
-    let night_theme = ((localStorage.getItem("night_theme") || "false") === 'true');
-    if (night_theme == true) {
-        document.getElementsByTagName('body')[0].classList.toggle('night-theme');
-    }
-    function toggleNight() {
-        document.getElementsByTagName('body')[0].classList.toggle('night-theme');
-        night_theme = !night_theme;
-        localStorage.setItem("night_theme", night_theme);
-    }
-</script>
 
 </html>
