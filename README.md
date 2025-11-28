@@ -30,7 +30,7 @@
 0</br>
 0</br>
 0</br>
-0</br>
+![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)</br>
 0</br>
 0</br>
 0</br>
