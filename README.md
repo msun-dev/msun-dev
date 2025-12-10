@@ -1,31 +1,37 @@
 # HELLO, HI, HELLO THERE!!1!!1!
-My name is msun_!!!! My pronounces are ms/un_!!!!!11!(Don't misprnounce me or else!!!!!) And I hate *master* branches!!! !!!<br>
-Please sit back, relax and enjoy my wonderful profiel!<br>
+My name is msun_!!!! My pronounces are ms/un_!!!!!11!(Don't misprnounce me or else!!!!!) And I hate *master* branches!!! !!!
+Please sit back, relax and enjoy my wonderful profiel!
 ## About me:
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Serious part of the README:
-Some things that you should definetely visit:<br>
-(As if links under profile are not enough)<br>
-<img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button"><br>
+Some things that you should definetely visit:
+(As if links under profile are not enough)
+<img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button">
+
 - ![Link to a personal website]() - Blog about everything that I find interesting. RSS supported! Some other links are also there. (Doesn't work yet)
 - ![Link to a YT channel]() - EVerything form blog that you can watch instead. Also has a lot of other offtopic content.
 - ![Link to itch]() - Games made by me.
 *End of the serious part*
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)
+
 0</br>
 0</br>
 0</br>
