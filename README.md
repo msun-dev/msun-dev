@@ -21,15 +21,15 @@ Please sit back, relax and enjoy my wonderful profiel!</br>
 0</br>
 0</br>
 0</br>
-## Serious part of the README
-
-Some things that you should definetely visit:
-(As if links under profile are not enough)
-<img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button">
-![Link to a personal website:]() - Blog about everything that I find interesting. RSS supported! Some other links are also there. (Doesn't work yet)
-![Link to a YT channel]() - EVerything form blog that you can watch instead. Also has a lot of other offtopic content.
+<h2>Serious part of the README</h2>
+<br>
+Some things that you should definetely visit:<br>
+(As if links under profile are not enough)<br>
+<img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button"><br>
+![Link to a personal website:]() - Blog about everything that I find interesting. RSS supported! Some other links are also there. (Doesn't work yet)<br>
+![Link to a YT channel]() - EVerything form blog that you can watch instead. Also has a lot of other offtopic content.<br>
 ![Link to itch]() - Games made by me.
-*End of the serious part*
+*End of the serious part*<br>
 0</br>
 ![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)</br>
 0</br>
