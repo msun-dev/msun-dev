@@ -23,9 +23,12 @@ Some things that you should definetely visit:
 
 *End of the serious part*
 
-<a href="https://drive.google.com/drive-viewer/AKGpihZNIVlBixmkIwyvmMfJRLFbpfvztrWD5p5fYM7K9IMH0Aw3b4CwryDiAK0HA2BC0g4Dgkq7lcRFU2hR84kb7DAhQieNIomdPS0=s2560?source=screenshot.guru"> <img src="https://drive.google.com/drive-viewer/AKGpihZNIVlBixmkIwyvmMfJRLFbpfvztrWD5p5fYM7K9IMH0Aw3b4CwryDiAK0HA2BC0g4Dgkq7lcRFU2hR84kb7DAhQieNIomdPS0=s2560" /> </a>
-![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)
+<img src="https://drive.google.com/drive-viewer/AKGpihZNIVlBixmkIwyvmMfJRLFbpfvztrWD5p5fYM7K9IMH0Aw3b4CwryDiAK0HA2BC0g4Dgkq7lcRFU2hR84kb7DAhQieNIomdPS0=s2560">
+
+![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)</br>
+
 ![What in the world](https://lh3.googleusercontent.com/d/1yRzCK-gQCzuYY_ot_dUD2pEoaIA7WupD)</br>
+
 ![Reisen from TP8:5](https://lh3.googleusercontent.com/d/1QxfsGGbShNToeeuqg96bdXrDyDDOP8gY)</br>
 
 ```
