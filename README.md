@@ -8,10 +8,6 @@ Please sit back, relax and enjoy my wonderful profiel!
 
 Uhm. Erm. Uuuuuh... Uhh. Well, you see...
 
-## Serious part of the README:
-Some things that you should definetely visit:
-
-(As if links under the profile are not enough)
 ```
 *Start of the serious part*
 
