@@ -1,4 +1,7 @@
 <a href="#skip">Skip this awfull-ass README</a>
+
+## Best README Out There (no exceptions)
+
 ```
 HELLO, HI, HELLO THERE!!1!!1!
 |My name is msun_!!!! My pronounces are ms/un_!!!!!11!(Don't misprnounce me or else!!!!!)
@@ -22,6 +25,8 @@ Part with some pics I found funny/silly/etc. At some point (when there will
 be a LOT of images) you will get resticted on requests if you are not logged
 into a github account.
 ```
+
+## Meme Gallery
 
 ![Horror](https://lh3.googleusercontent.com/d/1bo2PsoerrqVK0yOWSkBFPlRacDJEJ_f_)</br>
 
