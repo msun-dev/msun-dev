@@ -26,7 +26,7 @@ be a LOT of images) you will get resticted on requests if you are not logged
 into a github account.
 ```
 
-## Meme Gallery
+## Meme Gallery (if you are not logged in <a href="#skip">skip it!</a>)
 
 ![Horror](https://lh3.googleusercontent.com/d/1bo2PsoerrqVK0yOWSkBFPlRacDJEJ_f_)</br>
 
