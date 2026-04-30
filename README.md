@@ -1,13 +1,11 @@
 <a href="#skip">Skip this awfull-ass README</a>
 ```
-# HELLO, HI, HELLO THERE!!1!!1!
-My name is msun_!!!! My pronounces are ms/un_!!!!!11!(Don't misprnounce me or else!!!!!)
-And I hate *master* branches!!! !!!
-Please sit back, relax and enjoy my wonderful profiel!
-## About me:
-
-Uhm. Erm. Uuuuuh... Uhh. Well, you see...
-
+HELLO, HI, HELLO THERE!!1!!1!
+|My name is msun_!!!! My pronounces are ms/un_!!!!!11!(Don't misprnounce me or else!!!!!)
+|And I hate *master* branches!!! !!!
+|Please sit back, relax and enjoy my wonderful profiel!
+About me:
+|Uhm. Erm. Uuuuuh... Uhh. Well, you see...
 ```
 *Start of the serious part*
 
@@ -19,7 +17,13 @@ Uhm. Erm. Uuuuuh... Uhh. Well, you see...
 
 *End of the serious part*
 
-<img src="https://drive.google.com/drive-viewer/AKGpihZNIVlBixmkIwyvmMfJRLFbpfvztrWD5p5fYM7K9IMH0Aw3b4CwryDiAK0HA2BC0g4Dgkq7lcRFU2hR84kb7DAhQieNIomdPS0=s2560">
+```
+Part with some pics I found funny/silly/etc. At some point (when there will
+be a LOT of images) you will get resticted on requests if you are not logged
+into a github account.
+```
+
+![Horror](https://lh3.googleusercontent.com/d/1bo2PsoerrqVK0yOWSkBFPlRacDJEJ_f_)</br>
 
 ![God is an awesom God](https://cdn.betterttv.net/emote/5ef4d03ef91de70dea5c19ab/1x.webp)</br>
 
@@ -28,8 +32,8 @@ Uhm. Erm. Uuuuuh... Uhh. Well, you see...
 ![Reisen from TP8:5](https://lh3.googleusercontent.com/d/1QxfsGGbShNToeeuqg96bdXrDyDDOP8gY)</br>
 
 ```
-ghs markdown parser sucks ginormousaurus penur! give me plaintext with the ability
-to embed images! now!
+ghs markdown parser sucks ginormousaurus penur!
+give me plaintext with the ability to embed images! now!
 ```
 ```
 *This whole profile is a joke.*
