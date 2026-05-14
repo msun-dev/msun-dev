@@ -17,10 +17,9 @@ About me:
 
 **Repos to check out:**
 
-- ![BLUE CPU Emulator](https://github.com/msun-dev/cpu-blue) - implementation
+- ![BLUE CPU Emulator](https://github.com/msun-dev/blue-cpu) - implementation
 of the CPU described in the Foster Caxton's book *Computer Architecture (1970)*.
 0 dependencies and can be embedded (hopefully) in Your code.
-
 - ![Okayga](https://github.com/msun-dev/okayga) - puzzle game where you stack
 as much eggs as possible. Not that bad on the code.
 
@@ -30,7 +29,6 @@ And some other small shit. More to come!
 
 - ![Link to a personal website]() - Blog about everything that I find interesting.
 RSS supported! Some other links are also there. (Doesn't work yet)
-
 - ![Link to a YT channel](https://www.youtube.com/@msun__) - Everything form blog
 that you can watch instead. Also has a lot of other offtopic content.
 - ![Link to itch](https://msun.itch.io/) - Games made by me.
