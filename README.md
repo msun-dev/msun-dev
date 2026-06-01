@@ -51,6 +51,8 @@ into a github account.
 
 ![Reisen from TP8:5](https://lh3.googleusercontent.com/d/1QxfsGGbShNToeeuqg96bdXrDyDDOP8gY)</br>
 
+<img src="https://lh3.googleusercontent.com/d/1wQAzCuns0vmaWF4V9TgdQR93lqdfPG3U=w250-h250" alt="Too bad!"></br>
+
 ## Random Notes
 
 ```
