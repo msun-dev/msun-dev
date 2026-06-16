@@ -27,11 +27,9 @@ And some other small shit. More to come!
 
 **Links to visit:**
 
-- ![Link to a personal website]() - Blog about everything that I find interesting.
-RSS supported! Some other links are also there. (Doesn't work yet)
-- ![Link to a YT channel](https://www.youtube.com/@msun__) - Everything form blog
-that you can watch instead. Also has a lot of other offtopic content.
-- ![Link to itch](https://msun.itch.io/) - Games made by me.
+- ![Link to a personal website]() - Stuff you can read/watch/play/use. (doesn't work)
+- ![Link to a YT channel](https://www.youtube.com/@msun__) - Stuff you can watch.
+- ![Link to itch](https://msun.itch.io/) - Stuff you can play/use in the browser.
 
 *End of the serious part*
 
