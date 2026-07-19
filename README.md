@@ -1,6 +1,6 @@
 <a href="#skip">Skip this awfull-ass README</a>
 
-## Best README Out There (no exceptions)
+## Best README Out There (no exceptions) 🤨😄😄😄🤪🤪🤪😂😂😂😂😝😝😝✨✨✨👻👻👻👻👻
 
 ```
 HELLO, HI, HELLO THERE!!1!!1!
