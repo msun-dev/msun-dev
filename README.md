@@ -49,7 +49,11 @@ into a github account.
 
 ![Reisen from TP8:5](https://lh3.googleusercontent.com/d/1QxfsGGbShNToeeuqg96bdXrDyDDOP8gY)</br>
 
-<img src="https://lh3.googleusercontent.com/d/1wQAzCuns0vmaWF4V9TgdQR93lqdfPG3U=w250-h250" alt="Too bad!"></br>
+<img src="https://lh3.googleusercontent.com/d/1wQAzCuns0vmaWF4V9TgdQR93lqdfPG3U" width="250" height="250" alt="Too bad!"></br>
+
+<img src="https://lh3.googleusercontent.com/d/1ajtcOCsJYK5q-VHNAAtaIAm9Zojydzzh" alt="Zazabert"></br>
+
+<img src="https://lh3.googleusercontent.com/d/1Gg4MqFvG6hWmpmNX_avQPu0P2GTJVFhH" width="400" height="400" alt="Too bad! 2"></br>
 
 ## Random Notes
 
