@@ -1,6 +1,6 @@
 <a href="#skip">Skip this awfull-ass README</a>
 
-## Best README Out There (no exceptions) 🤨😄😄😄🤪🤪🤪😂😂😂😂😝😝😝✨✨✨👻👻👻👻👻🥴🥴🥴🥴😩😩😩😩😩💦💦💦💦💦🙇‍♀️🙇‍♀️🙇‍♀️🙇‍♀️🙇‍♀️😂😂😂😂😂👉👉👉🎢🚀🚀🚀🚀🚀🚀🎉🎉🎉🎉🎉😩💦
+## Best README Out There (no exceptions)
 
 ```
 HELLO, HI, HELLO THERE!!1!!1!
@@ -13,7 +13,7 @@ About me:
 
 *Start of the serious part*
 
-<img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button" style="display: none">
+<!-- <img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button" style="display: none"> -->
 
 **Repos to check out:**
 
@@ -27,9 +27,11 @@ And some other small shit. More to come!
 
 **Links to visit:**
 
-- ![Link to a personal website]() - Stuff you can read/watch/play/use. (doesn't work)
-- ![Link to a YT channel](https://www.youtube.com/@msun__) - Stuff you can watch.
-- ![Link to itch](https://msun.itch.io/) - Stuff you can play/use in the browser.
+- ![Link to a personal website](http://m-s-u-n.com) - Blog about everything that I find interesting.
+RSS supported! Some other links are also there.
+- ![Link to a YT channel](https://www.youtube.com/@msun__) - Everything form blog
+that you can watch instead. Also has a lot of other offtopic content.
+- ![Link to itch](https://msun.itch.io/) - Games made by me.
 
 *End of the serious part*
 
@@ -49,11 +51,7 @@ into a github account.
 
 ![Reisen from TP8:5](https://lh3.googleusercontent.com/d/1QxfsGGbShNToeeuqg96bdXrDyDDOP8gY)</br>
 
-<img src="https://lh3.googleusercontent.com/d/1wQAzCuns0vmaWF4V9TgdQR93lqdfPG3U" width="250" height="250" alt="Too bad!"></br>
-
-<img src="https://lh3.googleusercontent.com/d/1ajtcOCsJYK5q-VHNAAtaIAm9Zojydzzh" alt="Zazabert"></br>
-
-<img src="https://lh3.googleusercontent.com/d/1Gg4MqFvG6hWmpmNX_avQPu0P2GTJVFhH" width="400" height="400" alt="Too bad! 2"></br>
+<img src="https://lh3.googleusercontent.com/d/1wQAzCuns0vmaWF4V9TgdQR93lqdfPG3U=w250-h250" alt="Too bad!"></br>
 
 ## Random Notes
 
