@@ -13,7 +13,11 @@ About me:
 
 *Start of the serious part*
 
+<<<<<<< HEAD
 <!-- <img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button" style="display: none"> -->
+=======
+<!-- <img src="https://lh3.googleusercontent.com/d/1Knq0JheYnHvcpHcheFCOHBgIdskcdW2n" href="link_to_a_web" alt="website button" style="display: none"> --!>
+>>>>>>> bef93f5 (TODO: Explain the user which changes were made in the todo. In fact,)
 
 **Repos to check out:**
 
